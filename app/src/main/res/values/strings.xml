@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="revisao_dados">Revisão dos dados inseridos</string>
+    <string name="preco_por_litro">Preço por litro:</string>
+    <string name="consumo_por_litro">Consumo por litro:</string>
+    <string name="distancia">Distância:</string>
+    <string name="voltar_inicio">Voltar ao início</string>
+</resources>
